@@ -1,7 +1,7 @@
 # Tutorial ES6
 ----------------------------------------------------
 1. 	Block scope
-    - BLOCK FOR > BLOCK IF > BLOCK WHILE
+    BLOCK FOR > BLOCK IF > BLOCK WHILE
 
     `for(){ 
         if(){
