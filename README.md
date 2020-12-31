@@ -23,6 +23,52 @@
 	`var course_name = "ES6";`
 	``<div> Hello ${course_name} </div>``
 
+5.	FOR
+5.1 FOR ARRAY
+	ARRAY
+	`let arr = ["Java", "NodeJS", "HTML"];`
+
+	- FOR: index of array
+	Cách 1:
+	`let lengthArr = arr.length;`
+
+	`for(index = 0; index < lengthArr; index++){
+		console.log(index  + ': ' + arr[index]);
+	}`
+
+	Cách 2:
+	`for(index in arr){
+    	console.log(index);
+	}`
+
+	- FOR: value of array 
+	`for(value of arr){
+    	console.log(value);
+	}`
+
+
+5.2	FOR OBJECT
+	OBJECT
+	`let Obj = [
+		id		: 69,
+		name	: "Play football",
+		status	: true
+	]`
+
+	- FOR: index of object
+	`for(index in obj){
+		console.log(index);
+	}`
+
+	- FOR: value of object
+	`for(index in obj){
+		console.log(obj[index]);
+	}`
+
+
+
+
+	
 
 
 
