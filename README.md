@@ -1,14 +1,14 @@
 # Tutorial ES6
 ----------------------------------------------------
 1. 	Block scope
-    BLOCK FOR > BLOCK IF > BLOCK WHILE
+    - BLOCK FOR > BLOCK IF > BLOCK WHILE
 
-    for(){ 
+    `for(){ 
         if(){
             while(){
             }
         }
-    }
+    }`
 
 2. 	Var and Let
 	- VAR: Var khai báo trong BLOCK, có thể tái sử dụng ngoài BLOCK
@@ -22,6 +22,8 @@
 
 	`var course_name = "ES6";`
 	``<div> Hello ${course_name} </div>``
+
+
 
 
 
