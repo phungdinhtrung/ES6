@@ -26,6 +26,7 @@ console.log(msg);
 
 // 3. LET
 // LET chỉ sử dụng trong khối BLOCK, phạm vi nhỏ hơn VAR
+
 let a = 100
 if(a > 50){
     let msg = "WIN"
