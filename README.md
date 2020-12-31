@@ -18,11 +18,10 @@
 	Hằng số: không đổi, không thể ghi đè vào giá trị biến hằng số.
 
 4. 	Template string
-	Viết lồng biến với chuỗi (thường là chuỗi HTML);
-	--------------------------
+	Viết lồng biến với chuỗi (thường là chuỗi HTML).
+
 	var course_name = "ES6";
 	`<div> Hello ${course_name} </div>`
-	--------------------------
 
 
 
