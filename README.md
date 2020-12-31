@@ -3,12 +3,12 @@
 1. 	Block scope
     BLOCK FOR > BLOCK IF > BLOCK WHILE
 
-    for(){ 
+    `for(){ 
         if(){
             while(){
             }
         }
-    }
+    }`
 
 2. 	Var and Let
 	- VAR: Var khai báo trong BLOCK, có thể tái sử dụng ngoài BLOCK
@@ -21,7 +21,7 @@
 	Viết lồng biến với chuỗi (thường là chuỗi HTML).
 
 	`var course_name = "ES6";`
-	``<div> Hello ${course_name} </div>``
+	`<div> Hello ${course_name} </div>``
 
 
 
