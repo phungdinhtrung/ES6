@@ -23,7 +23,7 @@
 	`var course_name = "ES6";`
 	`<div> Hello ${course_name} </div>`
 
-5.	FOR
+5.	FOR \n
 5.1 FOR ARRAY
 	ARRAY
 	`let arr = ["Java", "NodeJS", "HTML"];`
