@@ -1,7 +1,6 @@
 # Tutorial ES6
 ----------------------------------------------------
 1. 	Block scope
-<<<<<<< HEAD
     BLOCK FOR > BLOCK IF > BLOCK WHILE
 
     `for(){ 
@@ -10,17 +9,6 @@
             }
         }
     }`
-=======
-	    
-	    for(){ 
-			if(){
-			    while(){
-			    	   }
-			}
-	    }
-	    
-	    BLOCK FOR > BLOCK IF > BLOCK WHIL
->>>>>>> ed97cdf891ac636f995953f2c9c138a6f5d5e41a
 
 2. 	Var and Let
 	- VAR: Var khai báo trong BLOCK, có thể tái sử dụng ngoài BLOCK
