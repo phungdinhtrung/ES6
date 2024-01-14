@@ -54,11 +54,11 @@
 - 5.2	FOR OBJECT
 	- OBJECT
 	
-		`let Obj = [
+		`let Obj = {
 			id		: 69,
 			name	: "Play football",
 			status	: true
-		]`
+	}`
 
 	- FOR: index of object
 	
